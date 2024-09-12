@@ -1,0 +1,81 @@
+Week 1: Introduction to Machine Learning
+Overview: Types of Machine Learning (Supervised, Unsupervised, Reinforcement Learning)
+Basic Concepts: Features, Labels, Training, Testing, Validation
+Tools: Introduction to TensorFlow (TF) and Scikit-learn (sklearn)
+Week 2: Linear Regression
+Theory: Understanding Linear Regression, Cost Function, Gradient Descent
+Implementation:
+Using sklearn: LinearRegression
+Using TensorFlow: Building a simple linear regression model
+Hands-on Project: Predicting house prices
+Week 3: Logistic Regression
+Theory: Understanding Logistic Regression, Sigmoid Function, Cost Function
+Implementation:
+Using sklearn: LogisticRegression
+Using TensorFlow: Building a simple logistic regression model
+Hands-on Project: Classifying emails as spam or not spam
+Week 4: Polynomial Features
+Theory: Understanding Polynomial Regression, Polynomial Features
+Implementation:
+Using sklearn: PolynomialFeatures and LinearRegression
+Using TensorFlow: Building a polynomial regression model
+Hands-on Project: Predicting BTC prices using polynomial regression
+Week 5: Decision Trees
+Theory: Understanding Decision Trees, Entropy, Information Gain
+Implementation:
+Using sklearn: DecisionTreeClassifier
+Using TensorFlow: Building a simple decision tree model
+Hands-on Project: Predicting loan approval
+Week 6: Support Vector Machines (SVM)
+Theory: Understanding SVM, Kernel Trick, Hyperplanes
+Implementation:
+Using sklearn: SVC
+Using TensorFlow: Building a simple SVM model
+Hands-on Project: Classifying handwritten digits
+Week 7: K-Nearest Neighbors (KNN)
+Theory: Understanding KNN, Distance Metrics, Choosing K
+Implementation:
+Using sklearn: KNeighborsClassifier
+Using TensorFlow: Building a simple KNN model
+Hands-on Project: Classifying iris species
+Week 8: Naive Bayes
+Theory: Understanding Naive Bayes, Bayes’ Theorem, Assumptions
+Implementation:
+Using sklearn: GaussianNB
+Using TensorFlow: Building a simple Naive Bayes model
+Hands-on Project: Classifying text data
+Week 9: Ensemble Methods
+Theory: Understanding Bagging, Boosting, Random Forests, Gradient Boosting
+Implementation:
+Using sklearn: RandomForestClassifier, GradientBoostingClassifier
+Using TensorFlow: Building ensemble models
+Hands-on Project: Improving model performance with ensemble methods
+Week 10: Clustering Algorithms
+Theory: Understanding K-Means, Hierarchical Clustering, DBSCAN
+Implementation:
+Using sklearn: KMeans, AgglomerativeClustering, DBSCAN
+Using TensorFlow: Building clustering models
+Hands-on Project: Customer segmentation
+Week 11: Dimensionality Reduction
+Theory: Understanding PCA, LDA, t-SNE
+Implementation:
+Using sklearn: PCA, LDA, TSNE
+Using TensorFlow: Applying dimensionality reduction techniques
+Hands-on Project: Visualizing high-dimensional data
+Week 12: Neural Networks and Deep Learning
+Theory: Understanding Neural Networks, Activation Functions, Backpropagation
+Implementation:
+Using TensorFlow: Building neural networks with Keras
+Hands-on Project: Image classification with neural networks
+Week 13: Model Evaluation and Improvement
+Evaluation Metrics: Accuracy, Precision, Recall, F1 Score, ROC Curve
+Cross-Validation: k-Fold Cross-Validation
+Hyperparameter Tuning: Grid Search, Random Search
+Implementation: Using sklearn and TensorFlow for model evaluation and tuning
+Week 14: Mini Project
+Project: Choose a dataset and apply the learned techniques to build a machine learning model
+Presentation: Prepare a presentation to explain the approach, implementation, and results
+Week 15: Review and Q&A
+Review: Recap of all topics covered
+Q&A: Address any questions or doubts
+Feedback: Provide feedback on the learning process and areas for improvement
